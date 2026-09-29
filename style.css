@@ -1,0 +1,19 @@
+.header-logo{
+    height: 60px;
+    width: auto;
+}
+
+nav,ul,li {
+    display: inline;
+}
+
+.header-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-menu-item {
+    margin-left: 50px;
+    
+}
